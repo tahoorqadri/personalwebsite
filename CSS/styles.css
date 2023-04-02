@@ -1,0 +1,114 @@
+body {
+    margin-top: none;
+    margin-bottom: none;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size:1.2em;
+}
+
+.texto {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 3.6rem;
+    color: #66BFBF;
+}
+
+.texti {
+    font-family: Helvetica, sans-serif;
+    font-size:1.9rem;
+    margin-top: 0;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height:2px;
+}
+
+.top-container{
+
+    background-color: aliceblue;
+    position: relative;
+    padding: 100px;
+    
+}
+.bottom-cloud {
+    position:absolute;
+    left: 300px;
+    bottom:400px;
+}
+
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top: 50px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.dp {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;     
+}
+
+h3,a {
+    color: #11999E;
+}
+
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+    font-size:3rem;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.code-img{
+    width: 25%;
+    border-radius: 100%;
+    float:left;
+    margin-right: 30px;
+}
+.data-img{
+    width: 25%;
+    float:right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
+
+.profile {
+    margin: 100px auto 100px auto;
+    width: 35%;
+    line-height: 2;
+
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width:5px ;
+    border-color: #757d7d;
+    width: 6%;
+}
+
+.bottom-container{
+    margin-top: 100px;
+    background-color: #66BFBF;
+    margin-bottom: 0px;
+    position: absolute;
+    width: 100%;
+    padding-top: 20px;
+    line-height: 3;
+}
+
+.contact-me{
+    line-height: 2;
+}
+
+.btn {
+
+    margin-top:50px;
+}
